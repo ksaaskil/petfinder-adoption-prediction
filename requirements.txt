@@ -1,6 +1,11 @@
 # local package
 # -e .
 kaggle
+jupyter
+numpy
+pandas
+matplotlib
+seaborn
 
 # external requirements
 python-dotenv>=0.5.1
