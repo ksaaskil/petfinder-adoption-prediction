@@ -84,3 +84,6 @@ target/
 
 # Symbolic link
 kernels/input
+
+# pyenv virtualenv file
+.python-version
