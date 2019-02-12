@@ -1,7 +1,7 @@
 {
   "id": "ksaaskil/feature-importance-exploration-and-sklearn-baseline",
   "title": "Feature importance exploration and sklearn baseline",
-  "code_file": "Feature importance exploration and sklearn baseline.ipynb",
+  "code_file": "feature-exploration.ipynb",
   "language": "python",
   "kernel_type": "notebook",
   "is_private": "true",
