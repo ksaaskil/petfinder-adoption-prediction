@@ -12,7 +12,7 @@ sklearn-pandas
 wheel
 # Requires `brew install libomp` in macOS, see
 # https://lightgbm.readthedocs.io/en/latest/Installation-Guide.html
-lgbm
+lightgbm
 
 # external requirements
 python-dotenv>=0.5.1
