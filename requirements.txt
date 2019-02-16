@@ -14,5 +14,7 @@ wheel
 # https://lightgbm.readthedocs.io/en/latest/Installation-Guide.html
 lightgbm
 
+xgboost
+
 # external requirements
 python-dotenv>=0.5.1
