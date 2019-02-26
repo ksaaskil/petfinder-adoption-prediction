@@ -1,0 +1,13 @@
+{
+  "id": "ksaaskil/pets-definitive-catboost-tuning",
+  "title": "Pets: Definitive CatBoost tuning",
+  "code_file": "pets-definitive-catboost-tuning.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "competition_sources": ["petfinder-adoption-prediction"],
+  "kernel_sources": []
+}
